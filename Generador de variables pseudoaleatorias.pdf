@@ -1175,11 +1175,20 @@
    ]
   },
   {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f50f33e2",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
    "cell_type": "markdown",
    "id": "7f7de855",
    "metadata": {},
    "source": [
     "HO: Los números son uniformes (0,1)\n",
+    "\n",
     "Ha: Los números NO son uniformes\n",
     "    \n",
     "En este caso no podemos rechazar la Ho"
